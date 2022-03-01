@@ -23,6 +23,6 @@ Check version of python
 
 There are no requirements.
 
-##how to run
+## how to run
 
 `python3 find_max.py`
